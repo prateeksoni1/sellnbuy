@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://gitlab-nht.stackroute.in/Prateek.Soni1/osbd.git
+[submodule "client"]
+	path = client
+	url = https://gitlab-nht.stackroute.in/Prateek.Soni1/osbd-client.git
